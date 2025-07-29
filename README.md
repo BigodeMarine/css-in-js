@@ -1,12 +1,37 @@
-# React + Vite
+## Um pequeno projeto feito com React + Vite, exibindo um card de produto estilizado com Styled Components, contendo:  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+-Nome do produto  
 
-Currently, two official plugins are available:
+-Preço  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Imagem  
 
-## Expanding the ESLint configuration
+-Botão de adicionar ao carrinho com cor dinâmica (verde ou cinza) 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Tecnologias utilizadas  
+
+-React  
+
+-Vite  
+
+-Styled Components  
+
+## Instruções para rodar o projeto localmente  
+1. Clone este repositório:  
+git clone
+
+2. Entre na pasta do projeto:  
+cd react-styled  
+
+3. Instale as dependências:  
+npm install 
+
+4. Rode o servidor de desenvolvimento:  
+npm run dev  
+
+
+
+
+
+
